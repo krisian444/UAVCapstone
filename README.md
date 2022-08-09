@@ -10,7 +10,7 @@ Unfortunately, due a resurgence on COVID cases during the Winter 2022 semester, 
 ## Vision System: 
 [Target Detection](https://github.com/krisian444/UAVTargDetect)
 
-Camera Calibration (link needed)
+[Camera Calibration](https://github.com/krisian444/CamCalibration)
 
 ## Communication System:
 Interface Board (link needed)
